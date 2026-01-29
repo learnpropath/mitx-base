@@ -6,3 +6,4 @@ Here is the pad image sketch and dimensions of the arms:
 <img width="918" height="685" alt="base-sketch-c‏ircle-pad" src="https://github.com/user-attachments/assets/d79967ba-0726-4446-b77c-7ce8cacfd082" />
 Final Center Punch Sketch: 
 <img width="657" height="602" alt="base-sketch-center-punch" src="https://github.com/user-attachments/assets/1dd89bb9-afc9-4208-8a69-acd985118920" />
+Issues with this version: The long arm is not long enough. 
